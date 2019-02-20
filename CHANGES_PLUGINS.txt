@@ -1,0 +1,20 @@
+$Id: CHANGES_PLUGINS.txt 29 2004-12-06 10:50:52Z mightor $
+
+CHANGELOG
+
++ new
+- fixed
+* changed
+? info
+
+02/12/2004 - 1.1
+
++ Smiley plugin
++ Kopete Emotion Icon theme to Smiley theme converter
+
+08/11/2004 - 1.0
+
++ First release, two plugins added:
++ ASpell GUI
++ Textile processor
+

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+BinaryPattern=
+GenericName=Blog Desktop Client
+Exec=pyqlogger
+Icon=pyqlogger
+Name=pyqlogger
+Terminal=0
+Type=Application
+
+Categories=Internet;
